@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Data Science, M.S. UT Austin
+Data Science, M.S. University of Texas at Austin
 
 ### Work Experience
 
