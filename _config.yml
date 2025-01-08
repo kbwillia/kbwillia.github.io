@@ -2,6 +2,6 @@
 # other https://pages.github.com/themes/
 title: Kyle Williams
 #theme: jeykll-theme-hacker
-logo: /assets/headshot_circle.png
-#logo: /assets/Headshot2.jpg
+#logo: /assets/headshot_circle.png # this works
+logo: /assets/Headshot2.jpg
 remote_theme: pages-themes/minimal@v0.2.0
