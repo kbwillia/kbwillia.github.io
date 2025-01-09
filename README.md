@@ -1,4 +1,5 @@
 # Data Scientist
+#### Technical Skills: Python, SQL, AWS, R, MATLAB
 
 ## Education
 Data Science, M.S. University of Texas at Austin
